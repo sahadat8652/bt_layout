@@ -1,0 +1,65 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	h1{
+		color: gray;
+	}
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	h1{
+		color: lime;
+	}
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	h1{
+		color: green;
+	}
+}
+
+/* Large devices (desktops, laptops 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	h1{
+		color: blue;
+	}
+}
+
+/* Extra Large devices (large desktops, large laptops 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+	h1{
+		color: black;
+	}
+}
+
+/* Extra Extra large devices (Extra large desktops, 1400px and up)*/
+@media (min-width: 1400px) and (max-width: 1499.98px){
+	h1{
+		color: orange;
+	}
+}
+/* Extra Extra large devices (Extra large desktops, 1500px and up)*/
+@media (min-width: 1500px) and (max-width: 1699.98px){
+	h1{
+		color: teal;
+	}
+}
+/* Extra Extra large devices (Extra large desktops, 1700px and up)*/
+@media (min-width: 1700px) and (max-width: 1899.98px){
+	h1{
+		color: aqua;
+	}
+}
+/* Extra Extra large devices (Extra large desktops, 1900px and up)*/
+@media (min-width: 1900px) and (max-width: 2099.98px){
+	h1{
+		color: yellow;
+	}
+}
+/* Extra Extra large devices (Extra large desktops,2100px and up)*/
+@media (min-width: 2100px){
+	h1{
+		color: navy;
+	}
+}
